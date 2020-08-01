@@ -12,6 +12,10 @@
   * [Tests](#tests)
   * [License](#license)
   * [Questions](#questions)
+  
+  ## Screenshot
+  
+  ![thumbnail](/thumbnail.png)
     
   ## Installation
   
