@@ -25,7 +25,8 @@
   ## Usage
   
   * Run "npm start" from terminal to deploy server to local port 3001
-  * Alternatively, you can visit the web link https://evening-dusk-80501.herokuapp.com/
+  * Launch http://localhost:3001 or visit the web link https://evening-dusk-80501.herokuapp.com/
+  * Be sure to install the app from the Chrome toolbar
 
   ## Contribute
   
